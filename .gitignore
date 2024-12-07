@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+*.egg-info/
+*.egg
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Docker
+*.env
+.env.*
+
+# Ignore local settings
+local_settings.py
+
+# Test artifacts
+coverage/
+.cache
+pytest_cache/
+
+# System files
+.DS_Store
+Thumbs.db
